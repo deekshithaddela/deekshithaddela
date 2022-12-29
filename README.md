@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @deekshithaddela
-- 👀 I’m interested in ML and AI
-- 🌱 I’m currently working at Deloitte USI
-- 💞️ I’m looking to collaborate on ML and AI Projects
+- 👀 I’m interested in Cloud Securty, Automation and DevSecOps
+- 🌱 I’m currently working as Cloud Security and Automation Engineer at Deloitte Technology USI
 - 📫 How to reach me deekshithreddyaddela@gmail.com
 
 <!---
