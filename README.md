@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deekshithaddela
-- 👀 I’m interested in Cloud security, Automation, and DevSecOps
+- 👀 I’m interested in Cloud Security, Automation, and DevSecOps
 - 🌱 I’m currently working as a Cloud Security and Automation Engineer
 - 📫 How to reach me deekshithreddyaddela@gmail.com
 
