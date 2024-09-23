@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deekshithaddela
-- 👀 I’m interested in Cloud Securty, Automation and DevSecOps
-- 🌱 I’m currently working as Cloud Security and Automation Engineer at Deloitte Technology USI
+- 👀 I’m interested in Cloud security, Automation, and DevSecOps
+- 🌱 I’m currently working as a Cloud Security and Automation Engineer
 - 📫 How to reach me deekshithreddyaddela@gmail.com
 
 <!---
